@@ -2,6 +2,10 @@
 
 ## Live Chat App with User Registration, Login and Social Authentication
 
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-issuetracker)](https://repl.it/@MichaelTandy/Live-Chat-App)
+
+![screenshot](https://user-images.githubusercontent.com/57681651/98570343-42c6aa00-22ab-11eb-8926-d66b9ecf9e39.JPG)
+
 This is a Live Chat App with User Registration, Login and Social Authentication with Github.
 
 The project is a _Node/Express_ application which uses _passport.js_ for authentication and _socket.io_ for live chat. The frontend is created with _pug templates_ and the _Material Design Bootstrap_.
