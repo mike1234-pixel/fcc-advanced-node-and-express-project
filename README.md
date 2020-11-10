@@ -4,7 +4,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-issuetracker)](https://repl.it/@MichaelTandy/Live-Chat-App)
 
-![screenshot](https://user-images.githubusercontent.com/57681651/98570343-42c6aa00-22ab-11eb-8926-d66b9ecf9e39.JPG)
+[![screenshot](https://user-images.githubusercontent.com/57681651/98570343-42c6aa00-22ab-11eb-8926-d66b9ecf9e39.JPG)](https://repl.it/@MichaelTandy/Live-Chat-App)
 
 This is a Live Chat App with User Registration, Login and Social Authentication with Github.
 
@@ -16,18 +16,9 @@ Users can register an account and log in to the live chat using that account, _o
 
 All logged in users can engage in live chat.
 
-# Working Locally
+# Run In Repl.it
 
-After cloning, open the file in your favourite text editor, and run these commands:
-
-- Install dependencies
-
-```sh
-npm ci
-```
-
-- Start development server
-
-```sh
-npm run dev
-```
+- Click the Run button at the top of the screen.
+- Copy the url in the top right hand corner and paste into a new browser window.
+- Repl.it is now running the app on a live server, meaning that anyone can access this app with the url https://live-chat-app--michaeltandy.repl.co/ and are able to register and login to the live chat.
+- The application will automatically timeout and stop running after 30 minutes-1 hour of inactivity, so don't worry if you close your browser and leave the app running as it will turn itself off.
