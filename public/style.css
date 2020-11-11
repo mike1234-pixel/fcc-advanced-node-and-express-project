@@ -15,9 +15,13 @@ div > input {
 }
 
 .login {
-  padding: 10px;
-  width: 50%;
-  background-color: #ddcbf1;
+  padding: 20px;
+  width: 70vw;
+  background-image: url("./images/desert2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin-bottom: 100px;
 }
 
@@ -33,9 +37,19 @@ a.text {
   width: 200px;
 }
 
+.form-div {
+  background: grey;
+  width: 70vw;
+  background-image: url("./images/desert2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 form {
   padding: 3px;
-  width: 500px;
+  width: 65vw;
 }
 
 form input {
