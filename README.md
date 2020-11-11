@@ -16,4 +16,4 @@ This is a Live Chat App with User Registration, Login and Social Authentication 
 
 The project is a _Node/Express_ application which uses _passport.js_ for authentication and _socket.io_ for live chat. The frontend is created with _pug templates_ and the _Material Design Bootstrap_.
 
-Join the party!(https://live-chat-application-1.herokuapp.com/)
+[Join the party!](https://live-chat-application-1.herokuapp.com/)
